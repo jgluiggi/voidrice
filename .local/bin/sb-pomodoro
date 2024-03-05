@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Prints output from pomodoro
+
+echo | pomodoro -g
